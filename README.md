@@ -45,9 +45,9 @@ W pracy analitycznej nie tylko zbieram wymagania biznesowe, ale samodzielnie wer
 
 Poniżej znajdziesz moje autorskie projekty analityczne oparte na realnych scenariuszach z przemysłu meblarskiego:
 
-1. **[01_production_oee_analysis](./01_production_oee_analysis)** — *Analiza przestojów maszynowych (MES)*. Wykrywanie wąskich gardeł na gniazdach produkcyjnych (np. cięcie, oklejanie) i kalkulacja skumulowanych strat czasu.
-2. **[02_bom_variance_detector](./02_bom_variance_detector)** — *Detektor odchyleń struktur BOM (ERP vs WMS)*. Automatyczne dopasowanie wydań magazynowych do norm technicznych mebli i wyliczanie marnotrawstwa surowców w PLN.
-3. **[03_demand_forecasting](./03_demand_forecasting)** — *Prognozowanie popytu na wyroby gotowe*. (W trakcie realizacji).
+1. **[01_production_oee_analysis](.Potrfolio/01_production_oee_analysis)** — *Analiza przestojów maszynowych (MES)*. Wykrywanie wąskich gardeł na gniazdach produkcyjnych (np. cięcie, oklejanie) i kalkulacja skumulowanych strat czasu.
+2. **[02_bom_variance_detector](.Potrfolio/02_bom_variance_detector)** — *Detektor odchyleń struktur BOM (ERP vs WMS)*. Automatyczne dopasowanie wydań magazynowych do norm technicznych mebli i wyliczanie marnotrawstwa surowców w PLN.
+3. **[03_demand_forecasting](.Potrfolio/03_demand_forecasting)** — *Prognozowanie popytu na wyroby gotowe*. (W trakcie realizacji).
 
 ---
 
