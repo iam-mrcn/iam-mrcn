@@ -43,11 +43,11 @@ W pracy analitycznej nie tylko zbieram wymagania biznesowe, ale samodzielnie wer
 
 ##  Moje Portfolio (Projekty produkcyjne)
 
-Poniżej znajdziesz moje autorskie projekty analityczne oparte na realnych scenariuszach z przemysłu meblarskiego, znajdujące się w dedykowanym repozytorium **Portfolio**:
+Poniżej znajdziesz moje autorskie projekty analityczne oparte na realnych scenariuszach z przemysłu meblarskiego, znajdujące się w dedykowanym repozytorium **Data_Analysis**:
 
 1. **[01_production_oee_analysis](https://github.com/iam-mrcn/Portfolio/tree/main/01_production_oee_analysis)** — *Analiza przestojów maszynowych (MES)*. Wykrywanie wąskich gardeł na gniazdach produkcyjnych (np. cięcie, oklejanie) i kalkulacja skumulowanych strat czasu.
 2. **[02_bom_variance_detector](https://github.com/iam-mrcn/Portfolio/tree/main/02_bom_variance_detector)** — *Detektor odchyleń struktur BOM (ERP vs WMS)*. Automatyczne dopasowanie wydań magazynowych do norm technicznych mebli i wyliczanie marnotrawstwa surowców w PLN.
-3. **[03_demand_forecasting](https://github.com/iam-mrcn/Portfolio/tree/main/03_demand_forecasting)** — *Prognozowanie popytu na wyroby gotowe*. (W trakcie realizacji).
+3. **[03_demand_forecasting](https://github.com/iam-mrcn/Portfolio/tree/main/03_demand_forecasting)** — *Prognozowanie popytu na wyroby gotowe*.
 
 ---
 
