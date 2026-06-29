@@ -52,5 +52,5 @@ Poniżej znajdziesz moje autorskie projekty analityczne oparte na realnych scena
 ---
 
 ##  Kontakt
-* **LinkedIn:** 
+* **LinkedIn:** https://pl.linkedin.com/in/marcin-brzakala
 * **E-mail:** iam.mrcn@icloud.com
